@@ -1,0 +1,3 @@
+download the binary release
+windows
+code blocks 20.03 mingw-setup.exe   fosshub
