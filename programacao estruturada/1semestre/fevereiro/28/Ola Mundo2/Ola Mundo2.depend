@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1677630954 source:c:\users\aluno\desktop\unifia-main\programacao estruturada\1semestre\fevereiro\28\ola mundo2\main.c
+	<stdio.h>
+	<stdlib.h>
+
